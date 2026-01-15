@@ -1,3 +1,9 @@
+# Archived Repository
+
+This repository has been archived and will no longer receive updates. 
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+If you are a Chef customer and need support for this repository, please contact your Chef account team
+
 # Habitat package: sqlwebadmin
 
 An ASP.NET 2.0 application for administering SQL Server databases. The application is downloaded from the Microsoft Codeplex Archive and was last updated in 2007. This package is ideal for demonstrating legacy applications with Habitat. It even declares a dependency on a COM binary (`core/sql-dmo`). It's ideally run against our [`core/sqlserver2005`](https://github.com/habitat-sh/core-plans/tree/master/sqlserver2005) package.
